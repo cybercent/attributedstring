@@ -1,0 +1,24 @@
+PODS:
+  - Atributika (4.6.8)
+  - Kingfisher (5.0.1)
+  - SnapKit (4.0.1)
+
+DEPENDENCIES:
+  - Atributika (~> 4.6.8)
+  - Kingfisher (~> 5.0)
+  - SnapKit (~> 4.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Atributika
+    - Kingfisher
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Atributika: 7510276c8c58194244f1b111f1c9b90350bc37a9
+  Kingfisher: 4f771421b9208185217550528a06fd48756cb7c2
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+
+PODFILE CHECKSUM: ba91a1e54b5b218ff9581159383b81bf3ecfded1
+
+COCOAPODS: 1.5.3
